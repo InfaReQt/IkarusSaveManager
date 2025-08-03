@@ -17,8 +17,8 @@ Created by InfaReQt.
 - No additional software needed—the script uses built-in Windows commands.
 
 ## How to Use
-1. Download the `ikarus_save_manager.bat` file from this repository.
-2. Double-click the .bat file to run it (or run via Command Prompt: `ikarus_save_manager.bat`).
+1. Download the `IkarusSaveManager.bat` file from this repository.
+2. Double-click the .bat file to run it (or run via Command Prompt: `IkarusSaveManager.bat`).
 3. The menu will appear:
    - [1] Create a new save: Select difficulty (1=Casual, 2=Normal), enter a name, and it backs up the files to a "Backups" folder.
    - [2] Restore a save: View list, select by number to overwrite the current save.
@@ -38,5 +38,6 @@ Created by InfaReQt.
 - **Path not found**: Ensure the game is installed and the save path matches.
 - **Permission issues**: Run as administrator if file copying fails.
 - **Game not launching**: Confirm Steam app ID (3167280) or replace with executable path in the script.
+
 
 For issues or suggestions, open an issue on this repo.
